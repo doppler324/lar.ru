@@ -16,7 +16,7 @@
 // This will be populated in `beforeCreate` hook
 import { $themeColors, $themeBreakpoints, $themeConfig } from '@themeConfig'
 import { provideToast } from 'vue-toastification/composition'
-import { watch } from '@vue/composition-api'
+import { watch } from '@vue/composition-Api'
 import useAppConfig from '@core/app-config/useAppConfig'
 
 import { useWindowSize, useCssVar } from '@vueuse/core'

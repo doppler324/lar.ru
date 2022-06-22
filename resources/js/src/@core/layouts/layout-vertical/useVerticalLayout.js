@@ -1,4 +1,4 @@
-import { ref, computed, watch } from '@vue/composition-api'
+import { ref, computed, watch } from '@vue/composition-Api'
 import store from '@/store'
 
 export default function useVerticalLayout(navbarType, footerType) {

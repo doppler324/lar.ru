@@ -1,5 +1,5 @@
 import store from '@/store'
-import { ref, watch, computed } from '@vue/composition-api'
+import { ref, watch, computed } from '@vue/composition-Api'
 
 export const useResponsiveAppLeftSidebarVisibility = () => {
   const mqShallShowLeftSidebar = ref(false)

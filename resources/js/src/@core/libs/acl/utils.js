@@ -1,4 +1,4 @@
-import { getCurrentInstance } from '@vue/composition-api'
+import { getCurrentInstance } from '@vue/composition-Api'
 
 /**
  * Returns ability result if ACL is configured or else just return true
